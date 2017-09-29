@@ -4,12 +4,12 @@
   "description": "baidu map support in React Native.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "baidumap"
   ],
   "author": {
     "name": "shenlgin"
