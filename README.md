@@ -4,4 +4,4 @@
 暂时仅支持android
 
 android
- <meta-data android:name="com.baidu.lbsapi.API_KEY" android:value="BVHnC25egOm9dQ0VLRWrS5c0"/>
+ #  <meta-data android:name="com.baidu.lbsapi.API_KEY" android:value="BVHnC25egOm9dQ0VLRWrS5c0"/>
