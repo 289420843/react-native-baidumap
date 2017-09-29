@@ -1,8 +1,12 @@
 {
-  "name": "react-native-slrn-baidumap",
+  "name": "react-native-baidumap",
   "version": "0.0.1",
   "description": "baidu map support in React Native.",
   "main": "index.js",
+  "repository": {
+    "url": "git@github.com:289420843/react-native-baidumap.git",
+    "type": "git"
+  },
   "scripts": {
   },
   "keywords": [
