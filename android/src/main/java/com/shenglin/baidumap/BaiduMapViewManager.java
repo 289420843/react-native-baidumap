@@ -1,4 +1,4 @@
-package com.slrn.baidumap;
+package com.shenglin.baidumap;
 
 import android.content.Context;
 import android.graphics.Point;
