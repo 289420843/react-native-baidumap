@@ -1,4 +1,4 @@
-package com.slrn.baidumap;
+package com.shenglin.baidumap;
 
 
 import com.baidu.location.BDLocation;
