@@ -1,4 +1,4 @@
-package com.slrn.baidumap;
+package com.shenglin.baidumap;
 
 import com.baidu.mapapi.map.BaiduMap;
 import com.baidu.mapapi.map.Polyline;
