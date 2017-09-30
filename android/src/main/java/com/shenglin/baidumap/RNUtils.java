@@ -1,4 +1,4 @@
-package com.slrn.baidumap;
+package com.shenglin.baidumap;
 
 import com.facebook.react.bridge.ReadableMap;
 import com.facebook.react.bridge.ReadableMapKeySetIterator;
